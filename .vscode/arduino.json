@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0",
+    "sketch": "test_capteur_couleur_interruptions_complet.ino"
+}
